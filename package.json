@@ -1,0 +1,25 @@
+{
+  "name": "tik-tac-toe-game",
+  "version": "1.0.0",
+  "description": "the following repo is about tik-tac-toe game in nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalyanChowdary2000/tik-tac-toe-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalyanChowdary2000/tik-tac-toe-game/issues"
+  },
+  "homepage": "https://github.com/kalyanChowdary2000/tik-tac-toe-game#readme",
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.0.1"
+  }
+}
